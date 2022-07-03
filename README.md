@@ -1,4 +1,4 @@
-# Chroma91 Repo
+# Chroma91 Homebrew Formulas
 
 ## How do I install these formulae?
 
